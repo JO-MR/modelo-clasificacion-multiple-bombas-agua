@@ -1,4 +1,4 @@
-# 🧠 Modelo Supervisado de Clasificación Múltiple – Bombas de Agua
+#  Modelo Supervisado de Clasificación Múltiple – Bombas de Agua
 ### Autor: **Jonás De Martín Rodríguez**
 
 Este proyecto desarrolla un modelo **supervisado de clasificación múltiple** cuyo objetivo es predecir el **estado de funcionamiento de bombas de agua**, utilizando diferentes técnicas de *Machine Learning* y un proceso completo de preprocesado, entrenamiento, evaluación y comparación de modelos.
